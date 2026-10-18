@@ -11,7 +11,7 @@ The exporter is **read-only**: it never calls pool-mutating or `pause`/`resume` 
 ### Prerequisites
 
 - A miner running Braiins OS, reachable from the exporter on port 4028.
-- Go 1.26+ (to build from source) or Docker.
+- Go 1.26.9+ (to build from source) or Docker.
 
 ### Build from source
 
