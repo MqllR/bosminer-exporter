@@ -3,3 +3,16 @@ bin/
 *.out
 .idea/
 .vscode/
+*.exe
+*.dll
+*.so
+*.dylib
+*.prof
+coverage.*
+vendor/
+go.work
+go.work.sum
+.env
+.env.*
+.DS_Store
+.claude/
